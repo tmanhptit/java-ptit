@@ -1,0 +1,17 @@
+3
+C THUONG 150 0.03
+B VIP 200 0.05
+D ngu 199 0.01
+3
+Nguyen Van Hoang
+55B1
+01/01/2021
+05/01/2021
+Nguyen Trung Dung
+04C6
+01/01/2021
+10/01/2021
+Nguyen Trung Manh
+04D6
+01/01/2021
+01/01/2021

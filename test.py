@@ -1,0 +1,1 @@
+print("Manh trep trai")
